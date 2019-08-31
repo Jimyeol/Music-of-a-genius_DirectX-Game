@@ -1,6 +1,6 @@
 MUSIC-OF-A-GENIUS
 ===
-### Date: 2011-08
+### Date: 2010-06~
 I used the KGEmotion engine(DirectX) and irrKalng audio library.
 This game consists of three mini-rhythm games.
 
